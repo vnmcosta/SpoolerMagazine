@@ -1,0 +1,20 @@
+Rotinas para Clipper
+
+Um dos problemas que se colocam ao
+programador de Clipper consiste na
+ultrapassagem de certas limita‡”es da
+pr¢pria linguagem - j  de si poderosa e
+capaz de produzir excelentes aplica‡”es -
+mas, por ser uma linguagem de alto n¡vel,
+pouco adaptada a certas tarefas cujo
+desempenho s¢ pode obter-se atrav‚s da C ou
+pelo Assembly.
+Para al‚m de um conjunto de rotinas escritas
+em Clipper, o autor explica como criar
+bibliotecas de fun‡”es, alterando-as ou
+alargando-as … medida das necessidades. O
+livro ‚ completado por uma disqueta contendo
+todas as rotinas em Clipper, C e Assembly,
+bem como o c¢digo-fonte e o execut vel de
+cada exemplo.
+
