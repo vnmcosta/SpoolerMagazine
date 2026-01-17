@@ -3,7 +3,7 @@
 > Uma homenagem à *Spooler*, uma revista que ajudou a formar geeks — e que, para quem começou a programar no final da década de 80 (1989), foi essencial para ler e **vasculhar o código** que vinha nas disquetes.
 
 ## O que foi a Spooler
-A **Spooler** foi uma revista portuguesa de informática, com forte componente prática: ensino através de exemplos, partilha de código, programação, utilitários e cultura “hands-on”.
+A **Spooler** foi uma revista portuguesa de informática, com componente prática: ensino através de exemplos, partilha de código, programação, utilitários e cultura “hands-on”.
 Uma das suas marcas mais lembradas é o facto de **acompanhar disquetes** com software e ficheiros relacionados com os conteúdos da revista — incluindo material enviado por leitores.
 
 Este repositório existe para **preservar memória**, **organizar referências** e **facilitar a descoberta** do acervo digital disponível online.
