@@ -1,4 +1,4 @@
-# Revista **Spooler** (Portugal)
+# Revista **Spooler**
 
 > Uma homenagem à *Spooler*, uma revista que ajudou a formar geeks — e que, para quem começou a programar no final da década de 80 (1989), foi essencial para ler e **vasculhar o código** que vinha nas disquetes.
 
