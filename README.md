@@ -34,6 +34,3 @@ Alguns exemplos do tipo de conteúdos associados à Spooler:
 
 ## Onde encontrar edições digitalizadas e disquetes
 - Datassette (página da revista): https://datassette.org/revistas/spooler  
-- Datassette (ZIP com conteúdo das disquetes): https://datassette.org/softwares/pt-portugal-disquetes-diversos-softwares/revista-spooler  
-- Internet Archive (ex.: Spooler nº 28 + “Montra”): https://archive.org/details/spooler-no-28  
-- RetroArquivo (contexto e ligações da edição nº 28): https://retroarquivo.wordpress.com/2023/01/13/revista-spooler-no28/
