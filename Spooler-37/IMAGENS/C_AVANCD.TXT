@@ -1,0 +1,21 @@
+
+
+
+®C¯ - Avan‡ado
+
+O mundo aliciante da ®C¯ - a linguagem com
+que foram escritos alguns dos mais c‚lebres
+programas e compiladores - ‚ tratado nesta
+obra de forma particularmente atraente e
+sugestiva. Os temas s„o desenvolvidos com a
+necess ria profundidade ao longo dos doze
+cap¡tulos do livro. O leitor encontrar 
+fun‡”es para tratamento de ecr„, estruturas
+de dados, tabelas de Hashing, constru‡„o de
+TSR, compress„o de dados, tratamento de
+impressoras, programa‡„o de placas de som,
+etc. Todo o c¢digo-fonte, bem como os
+execut veis, s„o facultados numa disqueta,
+cujo conte£do ‚ sistematizado no primeiro
+cap¡tulo.
+

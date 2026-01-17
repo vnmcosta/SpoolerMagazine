@@ -1,0 +1,22 @@
+
+
+CA-Clipper 5.2 - Tomo de Actualiza‡„o
+
+Esta nova edi‡„o da Graficria n„o pode ser
+considerada isoladamente, pois constitui
+complemento ao nosso ®Clipper 5.01 - Guia do
+Programador¯, publicado anteriormente.
+Foi nossa preocupa‡„o evitar aos possuidores
+do livro ®Clipper 5.01 - Guia do
+Programador¯ gastos escusados numa nova
+obra, cujo conte£do, na sua quase
+totalidade, seria repetitivo. Assim, neste
+tomo apenas s„o discutidos os novos comandos
+e fun‡”es destinados a suportar a
+arquitectura RDD e altera‡”es relativas a
+declara‡”es, fun‡”es e comandos j 
+existentes. Tamb‚m consider mos apropriado
+desenvolver alguns t¢picos apenas aflorados
+no livro anterior: as ®Directivas¯ e a
+programa‡„o em rede.
+
