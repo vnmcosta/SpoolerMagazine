@@ -1,0 +1,575 @@
+FREE-SOFT E SHAREWARE - Spooler N§ 24
+
+NOTA: Por motivos de espa‡o na disqueta, fomos obrigados
+      a retirar algumas das primeiras referˆncias. Estas
+      poder„o ser consultadas no N§ 23 da Spooler.
+
+DISQUETAS 3,5" - 720 Kb - Cada referˆncia: 600$00
+
+O valor indicado n„o paga os direitos destes programas,
+mas apenas as pr¢prias disquetas e o trabalho de c¢pia e
+distribui‡„o. Ser  o utilizador dos programas tipo
+®shareware¯ a ter a responsabilidade de efectuar o
+respectivo pagamento, directamente aos autores, nos termos
+e condi‡”es por eles propostos. A Spooler limita-se a
+distribuir esses programas, na sua vers„o integral.
+
+
+SH58 - Utilit rios Diversos
+       Diversos autores. Documenta‡„o em inglˆs.
+       QFIND -  Pesquisa de qualquer ficheiro no sistema.
+       Inclui utilit rio para Windows 3.0.
+       CLEAN99 e SCANV99 - As vers”es 99 do famoso ®Viruscan¯ da McAfee.
+       VCOPY82 - Um DOS COPY com detec‡„o autom tica de v¡rus V 0.7V82 da McAfee.
+       KEYLOCK - Um eficiente cadeado para o teclado.
+       PUTPASS - Umpassword para aceder a ficheiros .COM.
+       PULLDWN - Um c¢modo e eficiente ®menu¯ para gerir aplica‡”es
+
+SH60 - Utilit rios para Windows 3.0
+       PCASE - CAD para Windows: Vers„o de demonstra‡„o.
+       UNICOM - Programa de comunica‡”es.
+       WUNZIP - ®Zipar¯ e ®Dezipar¯ dentro do Windows.
+       ZIPAPER - ®Wall-paper¯ comprimido pronto a utilizar.
+
+SH62 - Utilit rios e jogos para Windows 3.0
+       CUBIC - O famoso jogo dos cubos.
+       NEWICONS -  Biblioteca de ¡cones.
+       WINFRA20 - Visualiza‡„o de fractais.
+       XVTDRAW - Utilit rio para desenho de precis„o.
+
+SH64 - Utilit rios diversos
+       EMSTOOL2 - O famoso ®ToolKit¯ da Intel para programadores de C,
+       Assembly e Pascal.
+       HRAM1 - Um gestor para mem¢ria alta.
+       DOSMAP2 - Apresenta o mapa da mem¢ria.
+
+SH66 - Utilit rios diversos
+       VGACOPY - Copiador de disquetas em VGA
+       GIFDOT - Imprime GIF's em v rios formatos
+       CODEP - Converte codepage 850 em 860 e vice-versa
+       DRVINST - Instalador de Device-drivers
+       HELPSPEC - Conjunto residente de caracteres especiais
+       PCCALC - Calculadora TSR
+       BREAKIUP - Parte ficheiros grandes em v rios pequenos
+       SILENCE - Silencia o altifalante
+       VGADISK - Instala um disco virtual a partir da mem¢ria do VGA
+
+SH68 - V860 V. 3.00
+       O famoso package de Jos‚ P scoa, destinado … adequada instala‡„o
+       do code page portuguˆs, poupando precioso espa‡o na mem¢ria convencional
+       e substituindo as obsoletas instru‡”es do MS-DOS. Inclui ainda as
+       seguintes capacidades:
+       - Acesso a todas as teclas do teclado AT extendido a n¡vel do DOS
+       - Clique do teclado configur vel
+       - Redefini‡„o do typematic rate e delay rate do teclado
+       - Possibilidade de desinstala‡„o do programa da mem¢ria
+       - Alarme musical configur vel
+       Tem mais os seguintes utilit rios:
+       MODO.EXE - Altera o modo gr fico utilizando os servi‡os do DOS
+       GEN.EXE - Gera e captura fontes para utiliza‡„o com FONTES.EXE
+       PLACA.EXE - Identifica a placa gr fica
+
+SH70 - A/B - HIPERTEXTO
+       BlackMagic - Processador em ®Hypertext¯, vers„o 1.2. O sistema chamado
+       de ®hipertexto¯ permite expandir textos ligando palavras-chave e blocos
+       de informa‡„o a outros textos.
+
+SH72 - Utilit rios - NOVO!
+       SHEZ - Vers„o 8.4 do famoso ®Shell¯ altamente especializado para
+       manipula‡„o de compress”es. Corre em Windows 3.0 e suporta o rato.
+       COLORIT - Utilit rio para colorir textos ASCII.
+       PKLITE - Compressor de ficheiros .EXE e .COM mantendo-os execut veis.
+       HDM4 - Gestor do disco r¡gido com password.
+
+SH74 - Utilit rios e jogos para Windows 3.0
+       DISKLOOK - Informa‡„o permanente sobre os seus discos.
+       KLZ209 - O Tetris para Windows 3.0
+       MAGIC110 - Um screen-saver com password e diversas configura‡”es
+       BG06 - O jogo do Gam„o para Windows 3.0
+       PUZZLE - Um puzzle para Windows 3.0
+       WINWEEL - Roda da Sorte para Windows 3.0
+       IEDIT - Editor de ¡cones para Windows 3.0
+       WIN3CLOC - Um rel¢gio configur vel para Windows 3.0
+       CHANGCUR - Altere o cursor do rato em Windows 3.0
+
+SH76 - Utilit rios para DOS
+       MATCH201 - Compara documentos linha a linha. –til para programadores.
+       AGENDAP - Calend rio residente desde 1901 at‚ 2089.
+       CNFMT16 - Formata disquetas enquanto se executa outra tarefa.
+       ARJ221 - A vers„o V2.21 do c‚lebre compressor.
+       SHERIFF - Um administrador de seguran‡a para o sistema.
+       EEMRAM21 - Aumenta a mem¢ria dispon¡vel at‚ 736K com recurso … LIM.
+
+SH78 - Utilit rios para Windows 3.0
+       METZW30 - CONJUNTO DE UTILIT†RIOS PARA WINDOWS 3.0
+       DN.EXE - Desktop Navigator: Acesso r pido a drives, direct¢rios e
+       ficheiros. Fun‡”es de gest„o de direct¢rios e ficheiros.
+       DT.EXE - Desktop Manager: Sistema de cria‡„o de menus e v rios
+       utilit rios para acesso a aplica‡”es.
+       FM.EXE - Metz Freemem: Apresenta‡„o digital da mem¢ria convencional
+       e expandida, colocada em qualquer ponto do ecr„.
+       LK.EXE - Metz Lock: Utilit rio de seguran‡a com password.
+       RNR.EXE - Metz Runner: Utilit rio para execu‡„o r pida de aplica‡”es
+       e ficheiros.
+       TM.EXE - Metz Timmer: Rel¢gio/Calend rio digital colocado em qualquer
+       ponto do ecr„.
+       PSHOP - PaintShop. Manipula‡„o e convers„o de imagens digitalizadas.
+       GIF2BMP - Converte qualquer GIF para ®papel de parede¯.
+       GIF2ICON - Converte qualquer GIF para ¡con.
+       NEKO - Coloque um ®Pussy-cat¯ no seu Windows 3.0
+
+SH80 - Utilit rios e jogos para Windows 3.0
+       WINAV - Utilit rio destinado … ®navega‡„o¯ atrav‚s de ficheiros,
+       direct¢rios e informa‡”es contidos em discos ou disquetas.
+       Executa programas, descompacta, edita ficheiros de texto, etc.
+       MLINK - Programa de comunica‡”es
+       ZIPMGR - Comprime/descomprime/lista ZIP, LZH, ARC, etc.
+       IMSTR - Desenhar ¡cons e integr -los nos programas.
+       BLITZER - Jogo de guerra com helic¢pteros
+
+SH82 - Utilit rios para Clipper e dBASE
+       AECLIPT - Bibliotecas para gr ficos em Clipper.
+       DB3TPL - Constru‡„o de ecr„s em dBASE III Plus
+       C5AN01 - Anomalias da vers„o Clipper 5.0
+       CLIPPMOU - Rotinas em Assembly e em C para o rato
+       CLRSET - Configurar as cores
+       SHADOW - Fazer menus com sombras
+       DBTIME - Transformar intervalos de tempo em horas e minutos
+
+SH84 - Colec‡„o Pintura: Toulouse Lautrec
+       ANGLAISE.GIF - AU_SALON.GIF - CLOWNESS.GIF - GOULUE.GIF
+       YVETTE.GIF - GOUL_ENT.GIF - JANE.GIF - MAIL.GIF - SUZANNE.GIF
+
+SH86 - Utilit rios e fontes para C
+       CPTUTOR1/2 - Tutor para a linguagem C
+       ASYCLS10 - Rotinas em C++ para comunica‡”es
+       PCTSR - Demonstra‡„o e fontes para residentes
+       TRAVDIRE - Fontes e utilit rio para pesquisa de ficheiros
+       CRITERRC - Rotinas para manipula‡„o de erros
+       DOSWIND - Rotinas para constru‡„o de janelas no DOS
+       CMOUSE - Rotinas para integra‡„o do rato
+
+SH88 - GIF's Alta resolu‡„o
+       SHORE - Beira-mar (640x400x256)
+       WORLDS - Os planetas e seus sat‚lites (640x480x256)
+       PHOBOS2 - Fotografia espacial de Fobos (640x480x256)
+
+SH90 - GIF's Alta resolu‡„o
+       MNTCLO - Paisagem (640x480x256)
+       ASIATIQU - Crian‡a oriental (640x512x16)
+
+SH92 - Utilit rios para DOS
+       BENCH3D  - Avalia‡„o do desempenho de sistemas com VGA
+       TESTCOM  - Teste …s placas s‚rie
+       HW20     - Configura‡„o do sistema
+       MAM107   - An lise da mem¢ria ocupada
+       MDR30A   - Diagn¢stico aos Modems
+       RX10A    - Aumentar a mem¢ria convencional nos 386
+       CARDTEST - Afina‡„o dos tons em mono e policrom tico
+       XDISK252 - Alterar a dimens„o das RAM-Disco
+       DRX097   - Manipula‡„o de ficheiros .EXE e .COM comprimidos
+
+SH94 - Jogos - EGA/VGA
+       SA1ASP - ®Secret Agent¯ da Apogee
+       CAVES  - As® Caves¯ da Apogee
+
+SH96 - Utilit rios para Windows
+       APOR13.EXE  - Interface global para Windows 3.0
+       ALWIN15.EXE - Sistema para planeamento, gest„o e controlo de tarefas
+		
+SH98 - Utilit rios e fontes para C
+       LCOMM30  - Rotinas para comunica‡”es
+       PROWNDW1 - Janelas em C - Demonstra‡”es
+       PROWNDW2 - Janelas em C - Fontes
+       PROWNDW3 -  Janelas em C - Bibliotecas
+       MOUSE    - Rotinas did ticas para o rato
+
+SH100 - Interrup‡”es
+        INTER191 - Documenta‡„o completa sobre interrup‡”es
+	INTERUPT - Os endere‡os das interrup‡”es
+		
+SH102 - ODYSSEY
+        ODY150SH - A vers„o 1.50 do famoso software para comunica‡”es
+		
+SH104 - Utilit rios diversos
+        DANCAD3D - Desenho e anima‡„o gr fica - Programa de CAD
+        LQUALITY - Melhore a qualidade da sua impressora
+        STOP&GO  - Um cron¢metro para o seu PC
+
+SH106 - Utilit rios diversos
+	ACE1, ACE2 - Programa de astronomia
+        ACTILOG    - Um registo da utiliza‡„o do computador
+        GIP        - Um gerador de instala‡”es para software
+	
+SH108 - GIF's Alta resolu‡„o
+	AUTOMATE - Um aut¢mato 1024x768x256
+        PAINT    - As ferramentas do pintor 640x480x256
+		
+SH110 - An lise antropom‚trica e Psiquiatria dom‚stica
+        CASP30 - Software para an lise antropom‚trica, especialmente
+                 dedicado aos profissionais da sa£de.
+        ELIZA2 - Psiquiatria dom‚stica. Corre em GWBasic e a base de
+                 dados pode ser aumentada e alterada para portuguˆs.
+		
+SH112 - GIF's Alta resolu‡„o
+        PLAT  - Uma natureza...morta 640x512x16
+	SACKS - Uma natureza...viva 640x480x256
+
+SH 114 - Jogos - EGA/VGA
+         ORION - Orion Odyssey
+         1MARS - Os monumentos de Marte
+
+SH 116 - Jogos - EGA/VGA
+         WHEELS2 - Roda da Fortuna para DOS
+         CRYSTAL - Crystal Caves
+         TK      - Solit rio para DOS
+
+SH 118 - FRAINT16
+         FRACTINT V 1.6 - Gerador e manipulador de fractais.
+         Conjuntos de Julia, Mandel e muitos outros tipos. Anima‡„o em 3D.
+         Grava em formato GIF.
+	
+SH 120 - Colec‡„o Pintura - VELASQUEZ
+                            ESOPO, INFANTE, JARDINS, COMTE, MENINAS
+	
+SH 122 - Dicion rios para TRADUTOR.COM
+         (Ver artigo no n§. 19 e 20 da Spooler)
+         ING_PORT.DIC  - Dic. de Inglˆs-Portuguˆs
+         FRN_PORT.DIC  - Dicion rio de Francˆs-Portuguˆs
+         SIGLAS.DIC    - Gloss rio de siglas, abreviaturas e acr¢nimos
+
+SH123 - JOGOS - EGA/VGA
+        MAHJONG  - O famoso jogo chinˆs
+        TZERO    - Uma aventura aliciante
+        SPECTRUM - 18 jogos para o simulador do saudoso Spectrum
+                    (inclui o simulador).
+
+SH124 - Utilit rios diversos
+        VSUM     - O famoso Virus Information Summary List de Patricia Hoffman
+	CSHOW844 - Visualizador de imagens digitalizadas
+                   (GIF, PCX, RLE, RIX, BMP, TIFF, IMG e Dr.Halo).
+        ALCHEMY  - Conversor/Compressor de imagens digitalizadas.
+                   Inclui duas excelentes imagens.
+
+SH125 - Utilit rios Diversos
+        FPROT203 - Anti-v¡rus - Detec‡„o e prote‡„o do sistema.
+        DBACKL1  - Apagamento selectivo de ficheiros no disco.
+        RTM211   - Gestor TSR de tarefas, compromissos, etc.
+        ARCM130  - Interface para compress„o/arquivo de ficheiros.
+        MODEMD40 - Diagn¢stico de Modems e Portas de Comunica‡„o.
+
+SH126 - Utilit rios para Windows
+	1470ICON - 1470 ¡cones para Windows!
+        CDBW     - DataBase ToolKit para Windows
+        ELANA10  - Configura‡„o para Windows 3.0
+        FP104    - FractalPaint - Fractais e outros desenhos
+	SCREENPC - Um ScreenSaver for Peace
+
+SH127 - Utilit rios para Windows
+	PBBSW152 - PowerBBS - Uma BBS para Windows
+        TOILET   - Um W.C. para o Windows
+        BLACKO22 - Aprenda a utilizar o rato jogando o BLACKOUT
+        DRAWICON - Desenho e constru‡„o de ¡cones. Inclui biblioteca
+
+SH128 - Utilit rios para Windows
+	UNICOM30 - Programa de comunica‡”es Vers„o 3.0
+        NCOMP121 - Viaje pelos E.U.A. e crie os seus pr¢prios mapas
+        VGA      - Drivers para emula‡„o tipo MAC, NeXt ou OS Motif.
+
+SH129 - Utilit rios e jogos para Windows
+        ABOVE    - Planeamento e Controlo de Tarefas
+        WSCAN99  - Scan Vers„o V99 para Windows
+	AIRFORCE - Jogo de Arcada
+        ATMOID   - Guerra aos meteoritos
+
+SH130 - Utilit rios e jogos para Windows
+	MENUBACK - Menu para gest„o de aplica‡”es
+        CLIP151  - Um ®ClipBoard¯ melhorado
+	CONCEN10 - Jogo de concentra‡„o
+        FILEVI   - Visualizador de ficheiros ASCII
+        GIFVI    - Visualizador de imagens GIF e BMP
+	SABDU110 - Copia, formata e compara disquetas
+	WINADVEN - Uma aventura no Windows
+        JWLTHF   - Ca‡ada …s j¢ias
+
+SH131 - Utilit rios e Programas para DOS
+        MAILDB01 - Base de mensagens usando pacotes de QWK, com
+                   algumas fun‡”es adicionais, tal como TXT2REP
+                   e REP2TXT: Shareware NACIONAL
+        AUTOM45  - Menu-Gestor de programas, comandos e aplica‡”es
+        ASCIFNT2 - Desenho de ecr„s com diferentes tipos e dimens”es de letras
+        ANSIPICS - 123 ecr„s ANSI - podem ser lidos e animados com o TheDraw
+
+SH132 - Utilit rios e Programas para DOS
+        BATCLNR  - Aprenda sozinho a linguagem batch; utilit rios e exemplos
+        CCP100   - Prote‡„o no arranque, acesso ao sistema e configura‡„o (McAfee)
+        BOOT125  - Configure o seu computador depois do arranque
+        HYPDK431 - Cache de disco para EMS/XMS
+        VSHLD99  - Prote‡„o do sistema contra v¡rus (McAfee)
+
+SH133 - Assembly
+	INTER30A 
+	INTER30B
+	INTER30C
+	Lista completa dos Interrupts do MS-DOS, vers„o 3.0
+        e outros utilit rios para programa‡„o em Assembly.
+
+SH134 - TELEMATE V 3.1
+	O famoso programa de comunica‡”es, Vers„o 3.1
+
+SH135 - JOGOS
+        BOLO - Bolo Adventures - Teste … capacidade de resolu‡„o de problemas
+	CHESSCOM - Jogue o BBS-CHESS atrav‚s do Modem
+        CC10 - Xadrˆz Chinˆs. Para EGA/VGA. Suporte de rato
+        BACGAMON - Jogo do Gam„o. Para EGA/VGA. Suporte de rato
+
+SH136 - JOGOS
+	UNGARIA -  Jogo de domin¢ (Nacional)
+	ACASTLE - Um jogo de matem tica
+	BRIDGES - Jogo do Bridge
+	CSHUF1 - Um MasterMind com os presidentes dos USA
+
+SH137 - Viroses
+        VSUMX212 - A nova vers„o 2.12 do famoso descritivo de Patr¡cia
+        Hoffman sobre todos os v¡rus conhecidos. Vers„o Hipertexto com
+        impress„o directa ou vizualiza‡„o no ecr„.
+        VSIG9213 - As ®assinaturas¯ de todos os v¡rus conecidos.
+
+SH138 - Utilit rios e jogos para Windows
+	WINEZZ - Gestor de Aplica‡”es
+	WINFBALL - Futebol americano 
+	WL0038 - 38 pap‚is de parede para o Windows
+        WPROJECT - Sistema global de gest„o de projectos PERT
+
+SH139 - JOGOS
+        DOMINO - O Domin¢ no Computador
+        ALIENDEM - Jogo de arcada excepcional.Placas de som/EGA/VGA
+
+SH140 - Utilit rios para Clipper
+        ADAMOBJ - Advanced Data Access Manager - Gerador de programas
+        por objectos.
+        CL-FONTS - Fontes adicionais para Clipper 87/5.0/5.01
+        CLIPINT - Acesso …s estruturas internas do Clipper 5.01
+        CLIPTC - Compilar rotinas em C
+        SHADOW - Sombras para o Clipper
+
+SH141 - Utilit rios para DOS
+        SHEZ81 - Vers„o 8.1 do famoso Shell de compress„o/descompress„o.
+        DEBUT140 - Gerador de ecr„s ASCII, ANSI, C, Pascal, BASIC, Bin rio.
+        EZMENU35 - Sistema de Menus configur vel pelo utilizador.
+        FUNFISH - V rios aqu rios para o seu sistema.
+
+SH142 - JOGOS - EGA/VGA
+        HUGO1-2 - Kogo ®Jungle of Doom¯ - Aventura gr fica.
+
+SH143 - Utilit rios e jogos para Windows
+        ASTROLAB - Astronomia para Windows 3.x. Simula‡„o de eclipses,
+        oculta‡”es lunares, ¢rbitas de planetas, etc.
+        EMPIREII - o jogo ®World Empire II¯.
+        GRAV - Simula‡„o da gravidade num sistema planet rio.
+        LICO20 - Utilit rio para manuten‡„o de ¡cones.
+        MEM11 - V rios parƒmetros sobre a mem¢ria dispon¡vel.
+        MILEBONE - Cruzeiro automobil¡stico.
+        MISSCOM - Jogo de m¡sseis.
+        MOUSWIN - V rios tipos de cursores para o seu rato.
+
+SH144/145 - UNREAL
+            Uma sensacional demonstra‡„o de grafismo e som. Quem possuir uma
+            placa de som pode disfrutar deste extraordin rio programa. Se n„o
+            a possui mas tem, no m¡nimo, uma placa VGA, obter  belas
+            e inesquec¡veis imagens animadas em 3D.
+            Configura‡„o m¡nima necess ria:
+            - 2,5 Mb no disco
+            - 386SX
+            - 2 Mb XMS/EMS
+            - VGA
+            Antes de instalar o programa, corra o ficheiro
+            LER.COM inclu¡do na disqueta.
+
+SH146 - Utilit rios e jogos para Windows
+        WOL12 - Roda da Fortuna
+        SNAG16 - Um Print Screen para o Windows
+        SYSGRA - Apresenta‡„o gr fica da carga do Windows
+        TOWERS - Jogo de cartas
+
+SH147 - JOGOS
+        TOM1ARM - Slot Machine e Poker
+        HOTROD - Hotrod Harry - Jpgo de aventuras EGA/VGA
+
+SH148 - Anti-V¡rus
+        CLEAN100 e SCANV100
+        As vers”es 9.1V100 do famoso Viruscan da McAfee Association.
+
+SH149 - Anti-V¡rus
+        Os famosos utilit rios McAfee:
+        WSCAN100 - Vers„o 9.1V100 do SCAN para Windows
+        NETSC100 - Vers„o 9.1V100 do SCAN para redes
+        VSHLD100 - Vers„o 9.1V100 para prote‡„o do sistema.
+
+SH150 - Utilit rios para DOS
+        ALITE11 - Folha de c lculo para EGA/VGA, CGA, Hercules
+        DTP-256 - Pintura e retoque de imagens GIF,PIC,PCX,TIF,
+                  etc., para VGA/SVGA
+
+SH151 - Utilit rios para DOS
+        FM337    - Formatador de disquetas via menu
+        GIP      - Cria‡„o de programas de instala‡„o
+        JPEG15   - Compressor de ficheiros GIF e vice-versa
+        MENUMAT4 - Um pr tico menu para o sistema
+        TRRETOP  - Gestor de direct¢rios e ficheiros. Aceita rato
+
+SH152 - JOGOS
+        ATLANTI - A batalha de Atlantis
+        JILL    - Jogo de arcada. Aceita placas de som. EGA/VGA
+
+SH153 - JOGOS
+        COSMIC - Aventura c¢smica. >=EGA; >=286
+
+SH154 - JOGOS - EGA/VGA
+        1HC     - Jogo de arcada
+        ANCIENS - Jogo de aventuras
+
+SH155 - Monte uma BBS
+        HOST44 - O m¢dulo para juntar ao TELIX
+        TLX315-1/2/3 - TELIX, o famoso programa de comunica‡”es
+
+SH156 - Utilit rios para Windows 3.x
+        CALCWIN  - Uma pequena calculadora
+        M_DRAW   - Desenho orientado para objectos
+        SMTCAT11 - Sistema para gest„o de disquetas
+        WINJAM22 - Manipula‡„o de dados MIDI. Exige placa de som
+        WIN_SAMP - Processamento de efeitos sonoros. Exige placa de som
+        XWORDW   - Jogo de palavras cruzadas (inglˆs)
+
+SH157A/B - PCBoard Shareware (2 disquetas)
+        PCBSWS-1/2 - O famoso programa para BBS na vers„o Shareware
+
+SH158 - JOGOS
+        KILOBLAS - Extraordin rio jogo de aventuras, preparado
+                   para VGA e placa de som. O primeiro epis¢dio
+                   da famosa trilogia Epic MegaGames
+
+SH159 - Utilit rio para DOS
+        IMPROC40 - Processador de imagens VGA/SVGA, entre
+                   320x200x256 e 1024x768x256
+        YAYUTILS - Conjunto de utilit rios para DOS:
+                   YAYDOS, YAYEDIT, YAYCAL, YAYCALC,
+                   YAYASCII - Dom¡nio P£blico!
+
+SH160 - Utilit rios para DOS
+        DISKTREE - Um completo gestor de direct¢rios e ficheiros
+        MAKEDEMO - Cria‡„o de apresenta‡”es execut veis
+        MSCAL    - Programa para gerar e visualizar fractais
+
+SH161 - JOGOS - EGA/VGA
+        ARBOREA  - Os famosos cristais de Arborea
+        GALACTIC - O Galactic Paladin
+
+SH162A/B - BANDOR (2 disquetas)
+        BANDOR#1/2/3/4 - O famoso Bandor Adventures. Preparado para
+                         placas de som e EGA/VGA. M¡nimo 286. Leia
+                         atentamente as instru‡”es para a devida
+                         instala‡„o.  necess rio criar uma s‚rie de
+                         direct¢rios.
+
+SH163 - JOGOS - EGA/VGA
+        SUPERZZT - Monster Zoo, Volume 7
+        CC3D30   - Corncob 3D. Combate a‚reo altamente sofisticado.
+                   Suporta placas de som. VGA, teclado ou Joystick.
+        WOLF6    - Wolfenstein Castle Maps: Mapas para todos os 6
+                   jogos; todos os n¡veis; todos os quartos.
+
+SH164 - JOGOS
+        #1GALAXY - Commander Keen em Goodbye Galaxy. VGA, >=286;
+                   suporta placas de som
+
+SH165 - JOGOS - EGA/VGA
+        BALGAME - Demonstra‡„o interactiva do BALLGAME
+        BOSTON  - O explˆndido Boston Games
+        TOMCAT  - Simulador de controlo de tr fego a‚reo
+
+SH166 - JOGOS
+        BC3000 - Demonstra‡„o VGA/Cartas de som do Battle Cruiser
+
+SH167 - JOGOS
+        WOLF_3D - Wolfenstein 3D. Extraordin rio jogo de arcada com
+                  suporte para placas de som; >=VGA>=286
+
+SH168 - JOGOS
+        ALIENIST - Psican lise alien¡gena
+        688SUB   - Guerra com submarino
+        DAWNRAID - Jogo de Arcada VGA
+
+SH169 - JOGOS
+        ALIENDEM - Aliens Ate My Baby Sitter
+                   Demonstra‡„o jog vel EGA/VGA/Carta de som
+        BATLESUB - Simula‡„o de submarino de combate EGA/VGA
+        DUKENUK  - Duke Nuken - Arcada/Aventura EGA/VGA
+
+SH170 - JOGOS
+        3DTREK - Aventura no Enterprise - EGA/VGA
+        HORUS  - Eye of Horus - EGA/VGA/Placa de som/Rato
+        MACK03 - Jogo de Arcada - EGA/VGA
+        ORIONO - Jogo de Arcada - EGA/VGA
+
+SH171 - JOGOS
+        MOONLAB - Jogo de Arcada Portuguˆs para VGA
+        MWORLD  - Moraff's World. Aventura VGA/SVGA
+        ATOMS   - Jogo dos  tomos para VGA
+        PARANOID - Jogo de Arcada para VGA
+        PIANOMAN - Componha as suas m£sicas no teclado
+
+SH172 - dBASE e Clipper
+        DBMAX    - Utilit rio xBASE permitindo acesso multi-utilizador
+                   a bases de dados xBASE e ¡ndices. Substitui o ASSIST
+                   ou o DBU do Clipper. Utiliz vel em ambiente Windows.
+                   Fontes .PRG para exemplos de m£ltiplas fun‡”es.
+                   AJUDA em formato HyperText.
+        DESKBASE - Gest„o de bases de dados para dBASE III/III+,
+                   dBASE IV e Clipper 87. Biblioteca de fun‡”es.
+                   M£ltiplos exemplos de programas.
+
+SH173 - Utilit rios para Windows
+        BACKDESK - Gest„o de aplica‡”es atrav‚s de menu
+        HUNTER19 - Pesquisa autom tica de ficheiros
+        TIM_FRAM - Rel¢gio digital permanente
+        VINCENTE - Utilit rio para desenho
+        W-ENVEL  - Impress„o de envelopes interactivo
+        WINWORLD - A hora em qualquer ponto do globo
+
+SH174 - Utilit rios para DOS
+        ANIMA_TE - Anima‡„o em modo texto. Convers„o de BMP para TXT.
+        ANSIEDIT - Editor de ecr„s ANSI
+        ANSIV22  - Leitor/Conversor de GIF para formato 320x200x256
+                   Grava em formato ANSI.
+        DCF40D   - Copiador de disquetas ultra-r pido. Menu-driven.
+
+SH175 - Utilit rio para DOS
+        MSD5UPD - Upgrade do CHKDSK.EXE e do UNDELETE.EXE para
+                  a vers„o 5.0 do MS-DOS
+        GIFLT200 - Compressor para imagens GIF
+        SQZ1083e - Compressor/Descompressor e arquivador de ficheiros
+        TLB_V211
+        TLB_A211 - Conjunto de utilit rios para gest„o de mem¢ria
+        TLB_T211
+
+SH176 - Utilit rios para DOS
+        FLEXP251 - Utilit rio para c¢pias de seguran‡a
+        NIGHTSKY - Um planet rio muito completo
+        CT41     - Um teste completo e dinƒmico … cache do disco
+        MMENU11  - Um menu para todo o sistema
+
+SH177 - Utilit rios e jogos para Windows
+        RISK2WIN - Explˆndido jogo de guerra NACIONAL
+        BASICBW  - Construa os seus programas em BASIC para correrem
+                   em Windows. Compilador com ®Run-Time¯. Bot”es,
+                   janelas, rato, etc.
+        MLINK09  - Um bom programa de comunica‡”es
+        STAT30   - Situa‡„o permanente do sistema. Gestor de programas.
+
+SH178 - Utilit rios para DOS
+        ICOM093  - Automatize as suas liga‡”es a BBS
+        ALTAMIRA - Utilit rio para desenho
+        NEWUTILS - Diversos utilit rios para DOS
+                  
+

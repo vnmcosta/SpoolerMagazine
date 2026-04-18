@@ -1,0 +1,79 @@
+
+ANTIlazy - Mar‡o de 91
+Escrito por Jos‚ Orlando Pereira
+para SPOOLER MAGAZINE.
+ 
+Este programa ‚ um ant¡doto para o "lazy", que ‚ um v¡rus que
+infecta exclusivamente ficheiros do tipo .COM, aos quais
+acrescenta invariavelmente 720 bytes. N„o provoca qualquer dano
+intencional aos sistemas onde se instala, excepto uma perceptivel
+diminui‡„o da velocidade de todas as opera‡”es com o ‚cran.
+Como efeito secund rio, pode bloquear o sistema, sobretudo quando
+se utilizam as portas s‚rie, ou um rato compat¡vel Microsoft BUS.
+(Neste ultimo caso ‚ mesmo impossivel correr o v¡rus.)
+ 
+O ANTIlazy examina os ficheiros … procura da assinatura do "lazy".
+Se a encontra no endere‡o correcto elimina autom ticamente o v¡rus
+restaurando o ficheiro … sua forma original. Caso a assinatura
+esteja fora do endere‡o esperado, pode segundo a vontade do
+utilizador tentar remover o virus, destruir o ficheiro ou deixa-lo
+como estava.
+# (1)
+A sintaxe de invoca‡„o ‚:
+ 
+     ALAZY <directoria> [/N:<ficheiro>] [/A] [/R] [/F] [/P] [/H] [/?]
+ 
+O significado dos selectores ‚ o seguinte:
+ 
+     /N:<ficheiro>  Substitui a mascara por defeito (*.COM) por
+                    <ficheiro> em todas as buscas.
+     /A             Equivalente a /N:*.*.
+     /R             Inibe busca recursiva, i.e., examina apenas a
+                    directoria indicada.
+     /F             Produz um relatorio no ficheiro ANTILAZY.REL.
+     /P             Produz um relat¢rio atrav‚s da impressora.
+ 
+Todos estes podem ser utilizados simultneamente, inclusive /A e
+/N, sendo o £ltimo na linha de comando que actua.
+S„o ainda aceites:
+ 
+     /H e /?        Mostram este texto de ajuda.
+# (2)
+Salvo indica‡oes em contr rio, todas as directorias abaixo da
+directoria indicada s„o percorridas, pelo que para examinar uma
+disqueta bastar  usar, por exemplo,
+ 
+     ALAZY A:
+ 
+Se o programa comunicar que n„o consegue examinar uma directoria ‚
+porque essa directoria tem qualquer problema.
+S„o tamb‚m examinados os ficheiros com o atributo H, que n„o s„o
+portanto visiveis normalmente.
+Os ficheiro contaminados e com o atributo R, ser„o na mesma
+desinfectados quando necess rio.
+Se a disqueta estiver protegida, ou se por qualquer outro motivo
+n„o puder ser desinfectado um programa, ser  registado no
+relat¢rio e o v¡rus ficar  inalterado.
+O ANTIlazy ‚ um programa .EXE e como tal ‚ imune a este v¡rus.
+Antes de come‡ar a examinar os ficheiros, o ANTIlazy averigua a
+presen‡a em mem¢ria do v¡rus, que em caso afirmativo ser 
+registado no relat¢rio.
+# (3)
+O antiv¡rus devolve os seguintes c¢digos:
+
+	0 - N„o foram econtrados erros nem v¡rus.
+	1 - Foram encontrados v¡rus.
+	2 - Foram encontrados erros.
+
+Podem ser examinados atrav‚s de ERRORLEVEL em ficheiros .BATch. 
+
+Caso descubra uma novas variedades deste v¡rus, escreva para a seguinte
+morada, enviando de preferˆncia um esp‚cime, para que eu possa actualizar
+o ANTIlazy. (A disqueta ser  imediatamente devolvida.)
+ 
+          Jos‚ Orlando Roque Nascimento Pereira
+          Av. Dr. Trigo de Negreiros, 237
+          5370 MIRANDELA
+ 
+Ser„o igualmente bem recebidas sugest”es e criticas sobre o
+este programa.
